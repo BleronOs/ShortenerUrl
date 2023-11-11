@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SY5pMBbkl5IolYi/pGKdg09qNDSvXq+Js6aIxNg/AuW9TTi6Q+q8pXxud4UlAC7t6/UOtcuT3fTLStbIpnlTgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\anchorz-up-api\\AnchorzUp.Core\\AnchorzUp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\ardalis.specification\\7.0.0\\ardalis.specification.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

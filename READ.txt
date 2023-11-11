@@ -1,0 +1,15 @@
+Dokumentim i shkurtër:
+
+Pjesa e Klientit (Client-Side) është krijuar me React JS (emri i dosjes: "anchorz-up-client").
+Pjesa e Serverit (Server-Side) është krijuar duke përdorur dy gjuhë programuese, konkretisht Asp.Net Web API dhe Django.
+Nëse dëshironi të nisni pjesën e frontendit me Asp.Net Web API, atëherë startuar folder-in (emri i folder-it: "anchorz-up-api").
+Për të nisur pjesën e frontendit me Django, atëherë startuar folder-in (emri i folder-it: "AnchorzUpDjango").
+
+Frontendi aktualisht është duke komunikuar me Asp.Net Web API. Megjithatë, nëse e nisni frontendin me Django, duhet të shkoni tek src/environment.config.js(folderi:"anchorz-up-client"), ku duhet të ndryshoni "api_url:" nga: api_url: 'http://localhost/' (e lidhur me Asp.Net Web API)
+në: api_url: 'http://127.0.0.1:8000/' për të mundësuar komunikimin me Django.
+
+Projekti përmban disa validime ne Pjesen e Klientit, si:
+
+Nuk mund të krijoni një URL të shkurtër nëse mungon URL origjinalë dhe nuk është zgjedhur koha e skadimit (time expiration).
+Nëse provojmë të futim një URL që ekziston dhe koha e skadimit është më e madhe se koha aktuale, atëherë nuk na lejon ta futim.
+Nëse klikojmë në linkun e shkurtuar pasi koha e skadimit ka kaluar, nuk do të redirektohemi te URL origjinal.
