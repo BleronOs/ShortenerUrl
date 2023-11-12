@@ -10,3 +10,15 @@ C:\Users\dell\Desktop\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.C
 C:\Users\dell\Desktop\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\refint\AnchorzUp.Core.dll
 C:\Users\dell\Desktop\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.Core.pdb
 C:\Users\dell\Desktop\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\ref\AnchorzUp.Core.dll
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\bin\Debug\net7.0\AnchorzUp.Core.deps.json
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\bin\Debug\net7.0\AnchorzUp.Core.dll
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\bin\Debug\net7.0\AnchorzUp.Core.pdb
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.Core.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.Core.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.Core.AssemblyInfo.cs
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.Core.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.Core.dll
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\refint\AnchorzUp.Core.dll
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\AnchorzUp.Core.pdb
+C:\Users\dell\Desktop\ShortenerUrl\anchorz-up-api\AnchorzUp.Core\obj\Debug\net7.0\ref\AnchorzUp.Core.dll

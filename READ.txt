@@ -8,7 +8,9 @@ Për të nisur pjesën e frontendit me Django, atëherë startuar folder-in (emr
 Frontendi aktualisht është duke komunikuar me Asp.Net Web API. Megjithatë, nëse e nisni frontendin me Django, duhet të shkoni tek src/environment.config.js(folderi:"anchorz-up-client"), ku duhet të ndryshoni "api_url:" nga: api_url: 'http://localhost/' (e lidhur me Asp.Net Web API)
 në: api_url: 'http://127.0.0.1:8000/' për të mundësuar komunikimin me Django.
 
-Projekti përmban disa validime ne Pjesen e Klientit, si:
+P.S Nëse projekti në Asp.Net Web API nuk startohet, atëherë e konfigurojna Startup projektin që me startu AnchorzUp.Api (e startojmë me 'http' ose 'https'), pasi që projekti është i ndarë në 3 nënprojekte si (AnchorzUp.Api, AnchorzUp.Core, AnchorzUp.Infrastructure). 
+
+Projekti përmban disa validime në Pjesën e Klientit, si:
 
 Nuk mund të krijoni një URL të shkurtër nëse mungon URL origjinalë dhe nuk është zgjedhur koha e skadimit (time expiration).
 Nëse provojmë të futim një URL që ekziston dhe koha e skadimit është më e madhe se koha aktuale, atëherë nuk na lejon ta futim.

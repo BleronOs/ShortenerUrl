@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\anchorz-up-api\\AnchorzUp.Core\\AnchorzUp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\ShortenerUrl-AnchorzUP\\ShortenerUrl\\anchorz-up-api\\AnchorzUp.Core\\AnchorzUp.Core.csproj",
       "projectName": "AnchorzUp.Core",
-      "projectPath": "C:\\Users\\dell\\Desktop\\anchorz-up-api\\AnchorzUp.Core\\AnchorzUp.Core.csproj",
+      "projectPath": "C:\\Users\\dell\\Desktop\\ShortenerUrl-AnchorzUP\\ShortenerUrl\\anchorz-up-api\\AnchorzUp.Core\\AnchorzUp.Core.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\anchorz-up-api\\AnchorzUp.Core\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\ShortenerUrl-AnchorzUP\\ShortenerUrl\\anchorz-up-api\\AnchorzUp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
